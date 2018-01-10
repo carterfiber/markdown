@@ -7,7 +7,7 @@ _________________________________________
 
 **Professional Experience and Education**
 _________________________________________
-DiversityPhotos.com Tucker, GA | Part-time May 2016 – Present
+1. DiversityPhotos.com Tucker, GA | Part-time May 2016 – Present
 
 - Leads front-end and back-end development and production deployment
 - Directs all technical projects and is responsible for successful software development by technical teams
@@ -15,8 +15,8 @@ DiversityPhotos.com Tucker, GA | Part-time May 2016 – Present
 - Prepares company forecasts and performs financial evaluations
 - Identifies and evaluates vendors; negotiates vendor contracts
 
-__|
-Georgia Transmission Corporation Tucker, GA
+
+1. Georgia Transmission Corporation Tucker, GA
 Fiber Optic & Cyber Security Engineer | January 2012 – January 2016
 
 - Project managed multiple multi-million dollar fiber optic and telecommunication projects
@@ -31,8 +31,8 @@ Fiber Optic & Cyber Security Engineer | January 2012 – January 2016
 - Responsible for developing, fostering and managing relationships with key industry carriers and providers
 - Developed Critical Infrastructure Protection policies and processes for compliance and best practices
 
-__|
-Georgia Transmission Corporation Tucker, GA
+
+3. Georgia Transmission Corporation Tucker, GA
 Relay and Control Engineer | January 2007 - December 2011
 
 - Designed remote controlled motor operated switches for transmissions lines (smart grid application)
