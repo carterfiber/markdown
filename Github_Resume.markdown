@@ -15,7 +15,7 @@ DiversityPhotos.com Tucker, GA | Part-time May 2016 – Present
 - Prepares company forecasts and performs financial evaluations
 - Identifies and evaluates vendors; negotiates vendor contracts
 
-__
+__|
 Georgia Transmission Corporation Tucker, GA
 Fiber Optic & Cyber Security Engineer | January 2012 – January 2016
 
@@ -31,7 +31,7 @@ Fiber Optic & Cyber Security Engineer | January 2012 – January 2016
 - Responsible for developing, fostering and managing relationships with key industry carriers and providers
 - Developed Critical Infrastructure Protection policies and processes for compliance and best practices
 
-__
+__|
 Georgia Transmission Corporation Tucker, GA
 Relay and Control Engineer | January 2007 - December 2011
 
