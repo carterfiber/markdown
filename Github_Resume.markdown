@@ -16,7 +16,7 @@ _________________________________________
 - Identifies and evaluates vendors; negotiates vendor contracts
 
 
-1. Georgia Transmission Corporation Tucker, GA
+2. Georgia Transmission Corporation Tucker, GA
 Fiber Optic & Cyber Security Engineer | January 2012 – January 2016
 
 - Project managed multiple multi-million dollar fiber optic and telecommunication projects
